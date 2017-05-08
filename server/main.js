@@ -1,3 +1,7 @@
+/**
+ * Server Main Entry File
+ */
+
 import { Meteor } from 'meteor/meteor';
 
 Meteor.startup(() => {
